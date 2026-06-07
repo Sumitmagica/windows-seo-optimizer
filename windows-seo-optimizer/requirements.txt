@@ -1,0 +1,5 @@
+# Windows SEO Optimizer - .NET 8.0
+# Dependencies are managed via NuGet
+# To run tests: dotnet test
+# To build: dotnet build
+# Test runner: xunit 2.6.0+
