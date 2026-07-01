@@ -125,4 +125,4 @@ Copyright © 2026 Sumitmagica. All rights reserved.
   <sub>Made with 💙 for the Windows power user community</sub>
 </div>
 
-<!-- SEO KEYWORDS: Windows SEO, Windows Search optimizer, file search speed, Windows indexing tool, local SEO Windows, search performance, File Explorer search, Windows utility 2026, free Windows tool, GitHub Windows SEO -->
+<!-- SEO KEYWORDS: Windows SEO, Windows Search optimizer, file search speed, Windows indexing tool, local SEO Windows, search performance, File Explorer search, Windows utility 2026, free Windows tool, GitHub Windows SEO -->‌
